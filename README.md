@@ -21,7 +21,7 @@
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=mith10&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently building and learning.
 
 - 💬 Ask me about **C, C++, Python, ML, Flutter, MERN**
 
