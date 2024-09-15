@@ -11,7 +11,7 @@
   
 
 <h1 align="center">Hi 👋, I'm Mithilesh Rajput</h1>
-<h3 align="center">A passionate self taught developer </h3>
+<h3 align="center">A passionate developer </h3>
 
 
 
